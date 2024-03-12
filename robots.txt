@@ -2,3 +2,4 @@ User-agent: *
 Disallow: /writing-samples/*
 Disallow: /tyler-young-writing-sample-heroku-install.pdf
 Disallow: /tyler-young-writing-sample-lists.pdf
+Disallow: /tyler-young-writing-samples.pdf
